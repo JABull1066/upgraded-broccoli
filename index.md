@@ -1,6 +1,5 @@
 Coventrys of the world
 =======================
-Sao Tome: Washington (136,000,000)
 China: Harbin (12,000,000)
 Brazil: Belem (2,441,761)
 India: Nagpur (2,228,018)
@@ -16,7 +15,6 @@ Italy: Trieste (187,056)
 France: Cergy-Pontoise (183,430)
 Australia: Cairns (153,075)
 Tanzania: Iringa (111,820)
-Sweden: Lund (87,244)
 Greece: Ilion (84,793)
 Ghana: Wa (78,107)
 Portugal: Guimarães (66,912)
