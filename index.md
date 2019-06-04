@@ -1,4 +1,4 @@
-Coventries of the world
+Coventries of a small fraction of the world
 =======================
 China: Harbin (12,000,000)
 Brazil: Belem (2,441,761)
